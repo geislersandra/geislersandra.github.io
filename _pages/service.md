@@ -24,7 +24,7 @@ author_profile: true
 
 </ul>
 
-### Reviews Conferences
+### Conference Reviews
 <ul>
 <li>International Conference on Data Science (DATA)</li>
 <li>1st International Workshop on Data Science for Industry 4.0 (DSI4) in conjunction with EDBT 2019</li>
@@ -33,7 +33,7 @@ author_profile: true
 <li>8th International Conference on Web Information Systems and Technologies, 2012</li>
 </ul>
 
-### Reviews Journals
+### Journal Reviews
 <ul>
 <li>Journal for Data and Information Quality (JDIQ)</li>
 <li>Data and Knowledge Engineering (DKE)</li>
