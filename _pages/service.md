@@ -16,21 +16,21 @@ author_profile: true
 
 ### Academic Event Organization
 <ul>
-<li>Program Chair <a href="https://dbis.rwth-aachen.de/DEco23/">Intl. Workshop on Data Ecosystems</a> in conjunction with VLDB 2023 (Vancouver, Canada)</li>
-<li>Program Chair <a href="https://dbis.rwth-aachen.de/DEco22/">Intl. Workshop on Data Ecosystems</a> in conjunction with VLDB 2022 (Sydney, Australia)</li>
-<li>Program Chair Intl. Workshop on on Information Management in Mobile Applications in conjunction with VLDB 2013 (Riva del Garda, Italy)</li>
-<li>Program Chair Intl. Workshop on on Information Management in Mobile Applications in conjunction with VLDB 2012 (Istanbul, Turkey)</li>
-<li>Program Chair Intl. Workshop on Managing Health Information in Mobile Applications (HIMoA’11) in conjunction with the Mobile Data Management conference (Lulea, Sweden)</li>
+<li>Program Chair <a href="https://dbis.rwth-aachen.de/DEco23/">International Workshop on Data Ecosystems</a> in conjunction with VLDB 2023 (Vancouver, Canada)</li>
+<li>Program Chair <a href="https://dbis.rwth-aachen.de/DEco22/">International Workshop on Data Ecosystems</a> in conjunction with VLDB 2022 (Sydney, Australia)</li>
+<li>Program Chair International Workshop on on Information Management in Mobile Applications in conjunction with VLDB 2013 (Riva del Garda, Italy)</li>
+<li>Program Chair International Workshop on on Information Management in Mobile Applications in conjunction with VLDB 2012 (Istanbul, Turkey)</li>
+<li>Program Chair International Workshop on Managing Health Information in Mobile Applications (HIMoA’11) in conjunction with the Mobile Data Management conference (Lulea, Sweden)</li>
 
 </ul>
 
 ### Reviews Conferences
 <ul>
 <li>International Conference on Data Science (DATA)</li>
-<li>1st Intl. Workshop on Data Science for Industry 4.0 (DSI4) in conjunction with EDBT 2019</li>
+<li>1st International Workshop on Data Science for Industry 4.0 (DSI4) in conjunction with EDBT 2019</li>
 <li>7th International Conference on Data Science, Technology and Applications 2018</li>
 <li>IEEE International Symposium on Computer-Based Medical Systems, 2018, 2017, 2016, 2015, 2013</li>
-<li>8th Intl. Conference on Web Information Systems and Technologies, 2012</li>
+<li>8th International Conference on Web Information Systems and Technologies, 2012</li>
 </ul>
 
 ### Reviews Journals
