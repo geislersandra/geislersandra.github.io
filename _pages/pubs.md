@@ -12,4 +12,4 @@ author_profile: true
 {% include base_path %}
 
 
-<script src="https://bibbase.org/show?bib=https://bibbase.org/network/files/t4CpmKQN5Qu5hYEGY&commas=true&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https://bibbase.org/network/files/m7njLEo8xkPErTjK4&commas=true&jsonp=1"></script>
