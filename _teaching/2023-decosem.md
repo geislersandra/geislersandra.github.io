@@ -2,7 +2,7 @@
 title: "Seminar Data Ecosystems"
 collection: teaching
 type: "Seminar"
-permalink: /teaching/deco-seminar-23
+permalink: /teaching/deco-seminar-24
 venue: "RWTH Aachen University"
 date: 2023-02-01
 location: "Aachen, Germany"
