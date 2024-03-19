@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Sandra Geisler"
-excerpt: "About me"
+title: "About me"
+excerpt: "Sandra Geisler"
 author_profile: true
 redirect_from: 
   - /about/
