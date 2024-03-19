@@ -4,7 +4,7 @@ collection: teaching
 type: "Seminar"
 permalink: /teaching/deco-seminar-24
 venue: "RWTH Aachen University"
-date: 2023-02-01
+date: 2024-03-26
 location: "Aachen, Germany"
 ---
 
