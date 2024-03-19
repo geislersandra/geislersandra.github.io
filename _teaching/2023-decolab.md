@@ -17,4 +17,4 @@ Students will pitch, design, and develop in a group a personal health applicatio
 
 We provide an introduction to the Solid specification and infrastructure and give short lectures about the semantic technologies and standards to be used.
 
-<a href="https://dbis.rwth-aachen.de/dbis/index.php/2023/data-ecosystems-lab/">Link to seminar</a>
+<a href="https://dbis.rwth-aachen.de/dbis/index.php/2023/data-ecosystems-lab/">Link to lab</a>
