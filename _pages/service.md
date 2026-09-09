@@ -5,6 +5,22 @@ permalink: /service/
 author_profile: true
 ---
 
+
+### Academic Event Organization
+<ul>
+<li>Organizer <a href="https://www.dagstuhl.de/27221">Dagstuhl-Seminar “Research Data Management in Times of Agentic AI”</a>, 30.05.2027 - 04.06.2027, Dagstuhl, Deutschland</li>
+<li>Program Chair Research Track <a href="https://2027.debs.org/">Distributed and Event-based Systems 2027 (DEBS’27)</a>, Galway, Irland</li>
+<li>Workshop Chair <a href="https://dbis.rwth-aachen.de/DEco24/">3rd Intl. Workshop on Data Ecosystems</a> in conj. with VLDB 2024, Gangzhou, China</li>
+<li>Workshop Chair <a href="https://dbis.rwth-aachen.de/DEco23/">2nd International Workshop on Data Ecosystems</a> in conjunction with VLDB 2023 (Vancouver, Canada)</li>
+<li>Workshop Chair <a href="https://dbis.rwth-aachen.de/DEco22/">1st International Workshop on Data Ecosystems</a> in conjunction with VLDB 2022 (Sydney, Australia)</li>
+<li>Public Relations Chair <a href="https://dbis.rwth-aachen.de/QDB2016/">11th International Workshop on Quality of Databases</a> held in conj. with VLDB 2016</li>
+2016 in New Delhi, India</li>
+<li>Workshop Chair International Workshop on on Information Management in Mobile Applications in conjunction with VLDB 2013 (Riva del Garda, Italy)</li>
+<li>Workshop Chair International Workshop on on Information Management in Mobile Applications in conjunction with VLDB 2012 (Istanbul, Turkey)</li>
+<li>Workshop Chair International Workshop on Managing Health Information in Mobile Applications (HIMoA’11) in conjunction with the Mobile Data Management conference (Lulea, Sweden)</li>
+
+</ul>
+
 ### Committees
 
 <ul>
@@ -16,18 +32,6 @@ author_profile: true
 <li>Guest Editor Special Issue on “Information Management in Mobile Applications”, Pervasive and Mobile Computing (Elsevier)</li>
 </ul>
 
-### Academic Event Organization
-<ul>
-<li>Workshop Chair <a href="https://dbis.rwth-aachen.de/DEco24/">3rd Intl. Workshop on Data Ecosystems</a> in conj. with VLDB 2024, Gangzhou, China</li>
-<li>Workshop Chair <a href="https://dbis.rwth-aachen.de/DEco23/">2nd International Workshop on Data Ecosystems</a> in conjunction with VLDB 2023 (Vancouver, Canada)</li>
-<li>Workshop Chair <a href="https://dbis.rwth-aachen.de/DEco22/">1st International Workshop on Data Ecosystems</a> in conjunction with VLDB 2022 (Sydney, Australia)</li>
-<li>Public Relations Chair <a href="https://dbis.rwth-aachen.de/QDB2016/">11th International Workshop on Quality of Databases</a> held in conj. with VLDB 2016</li>
-2016 in New Delhi, India</li>
-<li>Workshop Chair International Workshop on on Information Management in Mobile Applications in conjunction with VLDB 2013 (Riva del Garda, Italy)</li>
-<li>Workshop Chair International Workshop on on Information Management in Mobile Applications in conjunction with VLDB 2012 (Istanbul, Turkey)</li>
-<li>Workshop Chair International Workshop on Managing Health Information in Mobile Applications (HIMoA’11) in conjunction with the Mobile Data Management conference (Lulea, Sweden)</li>
-
-</ul>
 
 ### Conference Reviews
 <ul>
