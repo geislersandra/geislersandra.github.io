@@ -4,6 +4,7 @@ collection: teaching
 type: "Master course"
 permalink: /teaching/dsma
 venue: "RWTH Aachen University"
+date: 2026-09-09
 location: "Aachen, Germany"
 ---
 
