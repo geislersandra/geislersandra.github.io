@@ -13,17 +13,18 @@ I am junior professor for <a href="http://dsma.rwth-aachen.de">Data Stream Manag
 My research group works on topics in the following fields:
 
 <ul>
-<li>Methods and architectures for distributed data stream management and analysis specifically on the edge</li>
+<li>Methods and architectures for distributed data stream processing in the cloud-edge-continuum</li>
+<li><li>Research data management and FAIR principles</li>
 <li>Knowledge-driven data ecosystems</li>
+<li>AI-supported data management</li>
 <li>Data quality management</li>
-<li>Research data management and FAIR principles</li>
-<li>Data transparency</li>
 </ul>
 
 I am a principal investigator in the following projects: 
 <ul>
 <li><a href="http://iop.rwth-aachen.de">Cluster of Excellence "Internet of Production"</a></li>
 <li><a href="https://www.champi40ns.eu">champI4.0ns</a></li> 
+<li><a href="https://www.youtube.com/watch?v=AJ531UAugJc">StreamFröst</a></li>
 </ul>
 
 The group is affiliated with the <a href="http://dbis.rwth-aachen.de">Chair of Information Systems and Databases</a> (Computer Science 5) headed by Prof. Stefan Decker.
