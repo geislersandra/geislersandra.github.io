@@ -21,6 +21,7 @@ My research group works on topics in the following fields:
 </ul>
 
 I am a principal investigator in the following projects: 
+
 <ul>
 <li><a href="http://iop.rwth-aachen.de">Cluster of Excellence "Internet of Production"</a></li>
 <li><a href="https://www.champi40ns.eu">champI4.0ns</a></li> 
