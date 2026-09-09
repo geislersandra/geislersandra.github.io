@@ -28,6 +28,14 @@ I am a principal investigator in the following projects:
 <li><a href="https://www.youtube.com/watch?v=AJ531UAugJc">StreamFröst</a></li>
 </ul>
 
+In the group we developed the following tools and architectures:
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=7KA0dFhi_os">Konda: </a></li>
+<li><a href="https://www.youtube.com/watch?v=AJ531UAugJc">StreamFröst</a></li>
+</ul>
+
+
 The group is affiliated with the <a href="http://dbis.rwth-aachen.de">Chair of Information Systems and Databases</a> (Computer Science 5) headed by Prof. Stefan Decker.
 
 Furthermore, I am head of the research group <a href="https://www.fit.fraunhofer.de/en/business-areas/digital-health/digital-health-spaces.html">Digital Health Spaces</a> at the <a href="http://www.fit.fraunhofer.de">Fraunhofer Institute for Applied Information technology FIT</a>. Our research is focused on research in Data Ecosystems especially in the fields of healthcare and medicine covering topics of Data quality and metadata management, patient-centered design and data sovereignty, data exchange and data integration, mobile and web applications.
