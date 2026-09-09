@@ -1,7 +1,7 @@
 ---
 title: "Data Ecosystems Lab"
 collection: teaching
-type: "Seminar"
+type: "Lab"
 permalink: /teaching/deco
 venue: "RWTH Aachen University"
 date: 2026-01-01
