@@ -14,7 +14,7 @@ My research group works on topics in the following fields:
 
 <ul>
 <li>Methods and architectures for distributed data stream processing in the cloud-edge-continuum</li>
-<li><li>Research data management and FAIR principles</li>
+<li>Research data management and FAIR principles</li>
 <li>Knowledge-driven data ecosystems</li>
 <li>AI-supported data management</li>
 <li>Data quality management</li>
