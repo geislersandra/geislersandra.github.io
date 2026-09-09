@@ -35,10 +35,18 @@ author_profile: true
 
 ### Conference Reviews
 <ul>
-<li>International Workshop on Semantics in Dataspaces 2023, 2024</li>
-<li>Associate Editor European Conference on Information Systems (ECIS) 2023</li>
-<li>SEMANTICS 2023,2024</li>
-<li>International Conference on Data Science (DATA)</li>
+<li>VLDB 2027</li>
+<li>International Semantic Web Conference (ISWC) 2025, 2026</li>
+<li>Distributed and Event-based Systems (DEBS) 2026</li>
+<li>International Workshop on Quality in Databases (QDB), co-located with
+VLDB 2026</li>
+<li>European Semantic Web Conference (ESWC) 2026</li>
+<li>International Workshop on Users and Knowledge Graphs (UKG), co-located
+with SEMANTICS 2026 </li>
+<li>International Workshop on Semantics in Dataspaces 2023-2026</li>
+<li>Associate Editor European Conference on Information Systems (ECIS) 2023-2027</li>
+<li>SEMANTICS 2022-2026</li>
+<li>International Conference on Data Science (DATA) 2025, 2026</li>
 <li>1st International Workshop on Data Science for Industry 4.0 (DSI4) in conjunction with EDBT 2019</li>
 <li>7th International Conference on Data Science, Technology and Applications 2018</li>
 <li>IEEE International Symposium on Computer-Based Medical Systems, 2018, 2017, 2016, 2015, 2013</li>
